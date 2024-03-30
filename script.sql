@@ -16,5 +16,6 @@ FROM (
     FROM Н_ЛЮДИ
     GROUP BY ФАМИЛИЯ, ОТЧЕСТВО
 ) AS unique_names;
+--запрос №4
 
 
